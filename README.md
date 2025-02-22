@@ -90,11 +90,13 @@ streamlit run app.py
 
 
 
-![Screenshot 2025-02-23 000609]\([https://github.com/user-attachments/assets/ab37375b-1109-496f-a69e-93c4b70c5684](https://github.com/user-attachments/assets/ab37375b-1109-496f-a69e-93c4b70c5684))
+
+![Screenshot 2025-02-23 000609](https://github.com/user-attachments/assets/d8457c64-3e68-44af-9cc0-38949780ae99)
 
 
 
-![Screenshot 2025-02-23 000615]\([https://github.com/user-attachments/assets/7fbaec0d-8700-4a33-875b-2d020121ccac](https://github.com/user-attachments/assets/7fbaec0d-8700-4a33-875b-2d020121ccac))\
+![Screenshot 2025-02-23 000615](https://github.com/user-attachments/assets/b5b207ad-96f2-4f44-b7ac-0ef5d3ef2222)
+
 
 
 ---
